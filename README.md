@@ -1,4 +1,3 @@
 # ts-introduction
-Este es un repositorio de introducción a TypeScript 
-
-Aquí encontrarás ejercicios que se utilizarán durante clase.
+This is a repository of introduction to TypeScript
+Here, you will find basic lectures of programing
